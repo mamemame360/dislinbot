@@ -1,0 +1,2 @@
+# dislinbot
+DiscordのテキストチャンネルとLineのグループの間のメッセージ転送ボット
