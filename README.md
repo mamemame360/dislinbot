@@ -4,7 +4,7 @@ DiscordのテキストチャンネルとLineのグループの間のメッセー
 
 ## 使い方
 
-Herokuの登録の方法や、LINEとDiscordでボット作成に必要なシークレット、トークンの取得方法については割愛。
+[Heroku](https://jp.heroku.com/)の登録の方法や、LINEとDiscordでボット作成に必要なシークレット、トークンの取得方法については割愛。
 
 ### ボット用のトークンを設定(必須)
 [LINE Developers](https://developers.line.biz/ja/)でボット(公式チャンネル)用のチャンネルシークレットとチャンネルアクセストークン(長期)を取得。  
